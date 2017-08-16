@@ -1,6 +1,7 @@
 h1 {
   color: rgb(200, 0, 150);
   font-size: 50px;
-  font-family:"times new roman";
+  font-family:"Arial";
   text-align: center;
+  text-decoration:underline;
 }
