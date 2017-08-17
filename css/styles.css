@@ -4,12 +4,11 @@ h1 {
   font-family:"Century Gothic";
   text-align: center;
   background-color: lightblue;
+  text-shadow: 3px 3px 4px #777;
 }
 h2 {
   text-decoration: underline;
 }
-<<<<<<< HEAD
-=======
 body {
   background-color: rgba(0, 130, 255, 0.1);
 }
@@ -19,5 +18,3 @@ h5 {
 li {
   font-size: 14px;
 }
-f
->>>>>>> origin/master
