@@ -8,3 +8,16 @@ h1 {
 h2 {
   text-decoration: underline;
 }
+<<<<<<< HEAD
+=======
+body {
+  background-color: rgba(0, 130, 255, 0.1);
+}
+h5 {
+  font-size: 14px;
+}
+li {
+  font-size: 14px;
+}
+f
+>>>>>>> origin/master
