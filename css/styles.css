@@ -3,10 +3,8 @@ h1 {
   font-size: 50px;
   font-family:"Century Gothic";
   text-align: center;
-  text-decoration:underline;
-
+  background-color: lightblue;
 }
 h2 {
   text-decoration: underline;
-
 }
