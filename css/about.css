@@ -1,6 +1,9 @@
 h1 {
   font-family:"Arial";
 }
+h2 {
+  font-family: "Arial";
+}
 body {
   background-color: rgba(0, 130, 255, 0.1);
 }
